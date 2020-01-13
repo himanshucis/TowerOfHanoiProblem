@@ -36,17 +36,5 @@ MainMethod.java is the mian file , outputs present in the last nine digits of âˆ
 
 ## to run the program
 
-you just need to run MainMethod.java as java application from any IDE like eclipse or you can run from command prompt by executing below commands in project directory
+you just need to run MainMethod.java as java application from any IDE like eclipse, this is a java maven project import into eclipse and proper clean and install project and run MainMethod.java.and run as JUnit test for test cases.
 Please make sure to update tests as appropriate.
-
-```bash
-
-(for compile program)
-
-1. javac MainMethod.java 
-
-(for run program)
-
-2. java MainMethod.java 
-
-```
