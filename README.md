@@ -34,7 +34,7 @@ This TowerOfHanoi java maven project contains three files, MainMethod.java, Prob
 
 MainMethod.java is the mian file , outputs present in the last nine digits of ∑1≤n≤10000.
 
-## to run the program
+## To run the program
 
 you just need to run MainMethod.java as java application from any IDE like eclipse, this is a java maven project import into eclipse and proper clean and install project and run MainMethod.java.and run as JUnit test for test cases.
 Please make sure to update tests as appropriate.
